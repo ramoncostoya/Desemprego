@@ -5,3 +5,7 @@ Te resubi la tarea de LDAP y ya se ve, lamento el problema. Te explique los erro
 #Ramón Tarea Documentación Javadoc
 
 No tuve ningun problema a la hora de realizarla. Deberia estar todo en el pdf y verse correctamente
+
+#Ramón Tarea Documentación Git
+
+Hice todos los apartados menos el ultimo que no me salia y no me funcionaba.
