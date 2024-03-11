@@ -9,3 +9,7 @@ No tuve ningun problema a la hora de realizarla. Deberia estar todo en el pdf y 
 #Ramón Tarea Documentación Git
 
 Hice todos los apartados menos el ultimo que no me salia y no me funcionaba.
+
+#Ramón Tarea Documentación Obsidian
+
+Hice todos los apartados me parecio algo larga y liosa en algun apartado pero del resto todo bien.
